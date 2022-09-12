@@ -7,7 +7,7 @@ Location: Moscow
 * English - C2
 
 ### Contacts
-* [+7(999)983-80-24](tel:+79999838024)  
+* [+374 55 330879](tel:+37455330879)  
 * [m@ximilian.ru](mailto:m@ximilian.ru)
 
 ### Education
