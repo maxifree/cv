@@ -2,8 +2,8 @@
 **DevOps / SRE / Programmer**
 
 ### Languages
-* Russian --- native
-* English --- C2
+* Russian -- native
+* English -- C2
 
 ### Contacts
 * [+374(55)33-08-79](tel:+37455330879)
@@ -21,7 +21,7 @@ Master's degree in computing machinery, systems and networks (code 230101.65)
 Working in industry for ~14 years
 
 #### "Avride" Ltd
-*December 2022 --- Present*  
+*December 2022 -- Present*  
 https://avride.ai  
 Position: DevOps / SRE  
 **Responsibilities:**
@@ -32,7 +32,7 @@ Position: DevOps / SRE
 * * *
 
 #### "Yandex Self-Driving Group"
-*July 2021 --- December 2022* (1 year 5 month)  
+*July 2021 -- December 2022* (1 year 5 month)  
 https://sdg.yandex.com  
 Position: DevOps / SRE  
 **Responsibilities:**
@@ -43,7 +43,7 @@ Position: DevOps / SRE
 * * *
 
 #### "Hexagon" Ltd
-*April 2020 --- July 2021* (1 year 3 month)  
+*April 2020 -- July 2021* (1 year 3 month)  
 https://hex.team  
 Position: Lead developer  
 **Responsibilities:**
@@ -56,7 +56,7 @@ Position: Lead developer
 * * *
 
 #### "Communication Technologies" Ltd
-*September 2015 --- April 2020* (4 years 7 month)  
+*September 2015 -- April 2020* (4 years 7 month)  
 [https://bstation.ru](https://web.archive.org/web/20190121233218/http://bstation.ru/)  
 Position: Lead developer  
 **Responsibilities:**
@@ -71,7 +71,7 @@ Position: Lead developer
 * * *
 
 #### "Engeneering Center" Corporate Group
-*January 2010 --- September 2015* (5 years 8 month)  
+*January 2010 -- September 2015* (5 years 8 month)  
 https://esc-center.ru  
 Position: Developer  
 **Responsibilities:**
